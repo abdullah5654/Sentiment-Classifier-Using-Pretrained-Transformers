@@ -18,9 +18,9 @@ Try real-time sentiment detection by typing text directly.
 Sentiment Classification: Uses Hugging Face's pipeline for NLP.
 
 Data Upload: Accepts CSV files containing a text column.
-**
+
 Visualization:
-**
+
 Sentiment distribution bar chart (Seaborn + Matplotlib).
 
 Word clouds for each sentiment.

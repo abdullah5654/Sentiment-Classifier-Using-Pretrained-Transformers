@@ -1,0 +1,52 @@
+text,sentiment
+"I love this product, it's amazing!",positive
+"This is the worst purchase I've made.",negative
+"It's okay, not great but not bad.",neutral
+"Absolutely fantastic experience!",positive
+"Really disappointed with the quality.",negative
+"The service was average.",neutral
+"Highly recommended! Will buy again.",positive
+"I hate it. Never again.",negative
+"Just fine, nothing special.",neutral
+"Exceeded my expectations!",positive
+"Very poor performance.",negative
+"It's neither good nor bad.",neutral
+"Great value for the price!",positive
+"Terrible support and quality.",negative
+"Not impressed, not disappointed.",neutral
+"Super happy with my choice.",positive
+"Would not recommend to anyone.",negative
+"It's a decent option.",neutral
+"Amazing experience overall!",positive
+"Awful customer service.",negative
+"Mediocre at best.",neutral
+"Love the design and usability!",positive
+"Completely useless.",negative
+"Nothing extraordinary.",neutral
+"Exceptional build quality!",positive
+"Defective on arrival.",negative
+"Meh... just average.",neutral
+"Very satisfied with the results!",positive
+"Broke after one week.",negative
+"It's just okay.",neutral
+"Awesome performance!",positive
+"Do not waste your money.",negative
+"Not good, not bad.",neutral
+"Exactly what I needed!",positive
+"Horrible, just horrible.",negative
+"Acceptable quality.",neutral
+"Five stars from me!",positive
+"One of the worst.",negative
+"Moderate quality.",neutral
+"Best purchase this year!",positive
+"Very unsatisfied.",negative
+"It's fine for now.",neutral
+"Incredible speed and accuracy!",positive
+"Garbage. Total waste.",negative
+"Not too bad.",neutral
+"Happy with the outcome!",positive
+"Ruined my day.",negative
+"Could be better.",neutral
+"Perfect in every way!",positive
+"Extremely bad.",negative
+"Nothing to complain about.",neutral
